@@ -51,6 +51,7 @@ values."
                        auto-completion-enable-sort-by-usage t
                        auto-completion-tab-key-behavior 'complete
                        auto-completion-enable-help-tooltip 'manual)
+
      ;; better-defaults
      emacs-lisp
      git
